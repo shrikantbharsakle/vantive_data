@@ -1,0 +1,5 @@
+link - https://shrikantbharsakle.atlassian.net?continue=https%3A%2F%2Fshrikantbharsakle.atlassian.net%2Fwelcome%2Fsoftware&atlOrigin=eyJpIjoiNzJhZTZhODk3MzYxNGM1N2JmMjBiNjc2MjUwMzRjMjQiLCJwIjoiaiJ9
+
+
+Domain Name :- https://shrikantbharsakle.atlassian.net/
+Jira API token :- ATATT3xFfGF0fuj0OZGY0i7dE008WtKcQOy-uIgThEo-tNurXkD3ispW3E3p03jkfdA6gBEwYItpYXBgXCrrjaYt86_j3BlcPVDHi9qTzrGkxnBD1q4xC3YFzkrC9-__2P0mugLozk5JRstnKl5DN37hK6ZhecEHRALPC82SAfUFklU5yagphXk=E92B3C2D
